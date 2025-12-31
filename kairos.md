@@ -139,13 +139,7 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
     <source src="/Kairos-full-detailed-demonstration.mp4" type="video/mp4">
   </video>
 </div>
-<<<<<<< HEAD
-![](../../static/Kairos-full-detailed-demonstration.mp4)
-=======
 
-![](../../static/Kairos-full-detailed-demonstration.mp4)
-
->>>>>>> 8f951c9 (Waking up the robot for real this time)
 ---
 
 ## Features (Detailed)

@@ -72,7 +72,7 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 #### **Main Unit**
 <p align="center">
   <img src="images/kairos-coverpage.jpg" width="60%" style="border-radius:12px; border: 1px solid #333;"><br/>
-  <strong>KAIROS: No Interaction Hub</strong>
+  <strong><i>KAIROS: No Interaction Hub</i></strong>
 </p>
 
 ---
@@ -95,39 +95,39 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
     <img src="images//Device.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Device Mode</strong></p>
+    <p><strong><i>Device Mode</strong></i></p>
   </div>
   <div>
     <img src="images//device-selection.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Device Selection</strong></p>
+    <p><strong><i>Device Selection</i></strong></p>
   </div>
   <div>
     <img src="images//Mouse.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Mouse Mode</strong></p>
+    <p><strong><i>Mouse Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Media.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Media Mode</strong></p>
+    <p><strong><i>Media Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Reels.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Reels Mode</strong></p>
+    <p><strong><i>Reels Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Slides.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Presentation Mode</strong></p>
+    <p><i><strong>Presentation Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Camera.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Camera Mode</strong></p>
+    <p><strong><i>Camera Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Reader.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Reader Mode</strong></p>
+    <p><strong><i>Reader Mode</i></strong></p>
   </div>
   <div>
     <img src="images//Env.jpg" style="width:40%; border-radius:8px;">
-    <p><strong>Environment Sensing</strong></p>
+    <p><strong><i>Environment Sensing</i></strong></p>
   </div>
 </div>
 

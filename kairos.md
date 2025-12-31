@@ -71,7 +71,7 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 
 #### **Main Unit**
 <p align="center">
-  <img src="/kairos-coverpage.jpg" width="100%" style="border-radius:12px; border: 1px solid #333;"><br/>
+  <img src="images/kairos-coverpage.jpg" width="100%" style="border-radius:12px; border: 1px solid #333;"><br/>
   <strong>KAIROS: No Interaction Hub</strong>
 </p>
 
@@ -80,11 +80,11 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 #### **Hardware Architecture**
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
-    <img src="/Top.jpg" alt="Top View" style="width:100%; border-radius:8px;">
+    <img src="images/Top.jpg" alt="Top View" style="width:100%; border-radius:8px;">
     <p><i>Top Architecture: Sensor Array</i></p>
   </div>
   <div>
-    <img src="/SideView.jpg" alt="Side View" style="width:100%; border-radius:8px;">
+    <img src="images//SideView.jpg" alt="Side View" style="width:100%; border-radius:8px;">
     <p><i>Side Profile</i></p>
   </div>
 </div>
@@ -94,39 +94,39 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 #### **Operational Modes (User Interface)**
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
-    <img src="/Device.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Device.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Device Mode</strong></p>
   </div>
   <div>
-    <img src="/device-selection.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//device-selection.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Device Selection</strong></p>
   </div>
   <div>
-    <img src="/Mouse.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Mouse.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Mouse Mode</strong></p>
   </div>
   <div>
-    <img src="/Media.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Media.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Media Mode</strong></p>
   </div>
   <div>
-    <img src="/Reels.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Reels.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Reels Mode</strong></p>
   </div>
   <div>
-    <img src="/Slides.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Slides.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Presentation Mode</strong></p>
   </div>
   <div>
-    <img src="/Camera.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Camera.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Camera Mode</strong></p>
   </div>
   <div>
-    <img src="/Reader.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Reader.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Reader Mode</strong></p>
   </div>
   <div>
-    <img src="/Env.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Env.jpg" style="width:100%; border-radius:8px;">
     <p><strong>Environment Sensing</strong></p>
   </div>
 </div>

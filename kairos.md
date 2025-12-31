@@ -71,7 +71,7 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 
 #### **Main Unit**
 <p align="center">
-  <img src="images/kairos-coverpage.jpg" width="100%" style="border-radius:12px; border: 1px solid #333;"><br/>
+  <img src="images/kairos-coverpage.jpg" width="60%" style="border-radius:12px; border: 1px solid #333;"><br/>
   <strong>KAIROS: No Interaction Hub</strong>
 </p>
 
@@ -80,11 +80,11 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 #### **Hardware Architecture**
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
-    <img src="images/Top.jpg" alt="Top View" style="width:100%; border-radius:8px;">
+    <img src="images/Top.jpg" alt="Top View" style="width:40%; border-radius:8px;">
     <p><i>Top Architecture: Sensor Array</i></p>
   </div>
   <div>
-    <img src="images//SideView.jpg" alt="Side View" style="width:100%; border-radius:8px;">
+    <img src="images//SideView.jpg" alt="Side View" style="width:40%; border-radius:8px;">
     <p><i>Side Profile</i></p>
   </div>
 </div>
@@ -94,51 +94,48 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 #### **Operational Modes (User Interface)**
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
   <div>
-    <img src="images//Device.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Device.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Device Mode</strong></p>
   </div>
   <div>
-    <img src="images//device-selection.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//device-selection.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Device Selection</strong></p>
   </div>
   <div>
-    <img src="images//Mouse.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Mouse.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Mouse Mode</strong></p>
   </div>
   <div>
-    <img src="images//Media.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Media.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Media Mode</strong></p>
   </div>
   <div>
-    <img src="images//Reels.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Reels.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Reels Mode</strong></p>
   </div>
   <div>
-    <img src="images//Slides.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Slides.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Presentation Mode</strong></p>
   </div>
   <div>
-    <img src="images//Camera.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Camera.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Camera Mode</strong></p>
   </div>
   <div>
-    <img src="images//Reader.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Reader.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Reader Mode</strong></p>
   </div>
   <div>
-    <img src="images//Env.jpg" style="width:100%; border-radius:8px;">
+    <img src="images//Env.jpg" style="width:40%; border-radius:8px;">
     <p><strong>Environment Sensing</strong></p>
   </div>
 </div>
 
+### **VIDEO**
 
-### **Videos**
-
-<div style="background: #f4f4f4; padding: 20px; border-radius: 10px; text-align: center;">
-  <video controls width="100%" style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 1);">
-    <source src="/Kairos-full-detailed-demonstration.mp4" type="video/mp4">
-  </video>
-</div>
+<video controls width="100%"> 
+<source src="video//kairos-demo.mp4" type="video/mp4"> 
+</video>
 
 ---
 
@@ -580,11 +577,12 @@ Install these via the Library Manager:
 ## File Structure
 
 ```plaintext
-/kairos-no-interaction-hub
-├─ static/                  # Media Files
+/kairos-no-interaction-hub/
+├─ image/                   # Media Files
 │  ├─ Top.jpg               # Hardware Layout
 │  ├─ SideView.jpg          # Ergonomics
 │  ├─ Device.jpg            # UI: Profile Switcher
+│  ├─ Device-selection.jpg  
 │  ├─ Mouse.jpg             # UI: Air Mouse
 │  ├─ Media.jpg             # UI: Media Player
 │  ├─ Reels.jpg             # UI: Social Media
@@ -592,8 +590,10 @@ Install these via the Library Manager:
 │  ├─ Camera.jpg            # UI: Timer
 │  ├─ Reader.jpg            # UI: Reader
 │  ├─ Env.jpg               # UI: Environment
-│  └─ kairos-full-demo.mp4  # Video Demo
-└─ MYOSA.md                # Documentation
+│  ├─ kairos-coverpage.jpg    
+├─ video/
+│  └─ kairos-demo.mp4      # Video Demo
+└─ kairos.md                # Documentation
 
 
 ---

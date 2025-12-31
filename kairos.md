@@ -134,7 +134,7 @@ KAIROS will also go into sleep mode after 30 seconds of idle time to save power.
 ### **VIDEO**
 
 <video controls width="100%"> 
-<source src="video/kairos-demo.mp4" type="video/mp4"> 
+<source src="video/kairos-full-detailed-demonstration.mp4" type="video/mp4"> 
 </video>
 
 ---
